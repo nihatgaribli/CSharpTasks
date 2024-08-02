@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\GitHub\C#\task-7\task-7\task-7.5\bin\Debug\net6.0\task-7.5.exe
+C:\Users\User\Desktop\GitHub\C#\task-7\task-7\task-7.5\bin\Debug\net6.0\task-7.5.deps.json
+C:\Users\User\Desktop\GitHub\C#\task-7\task-7\task-7.5\bin\Debug\net6.0\task-7.5.runtimeconfig.json
+C:\Users\User\Desktop\GitHub\C#\task-7\task-7\task-7.5\bin\Debug\net6.0\task-7.5.dll
+C:\Users\User\Desktop\GitHub\C#\task-7\task-7\task-7.5\bin\Debug\net6.0\task-7.5.pdb
+C:\Users\User\Desktop\GitHub\C#\task-7\task-7\task-7.5\obj\Debug\net6.0\task-7.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GitHub\C#\task-7\task-7\task-7.5\obj\Debug\net6.0\task-7.5.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GitHub\C#\task-7\task-7\task-7.5\obj\Debug\net6.0\task-7.5.AssemblyInfo.cs
+C:\Users\User\Desktop\GitHub\C#\task-7\task-7\task-7.5\obj\Debug\net6.0\task-7.5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GitHub\C#\task-7\task-7\task-7.5\obj\Debug\net6.0\task-7.5.dll
+C:\Users\User\Desktop\GitHub\C#\task-7\task-7\task-7.5\obj\Debug\net6.0\refint\task-7.5.dll
+C:\Users\User\Desktop\GitHub\C#\task-7\task-7\task-7.5\obj\Debug\net6.0\task-7.5.pdb
+C:\Users\User\Desktop\GitHub\C#\task-7\task-7\task-7.5\obj\Debug\net6.0\task-7.5.genruntimeconfig.cache
+C:\Users\User\Desktop\GitHub\C#\task-7\task-7\task-7.5\obj\Debug\net6.0\ref\task-7.5.dll

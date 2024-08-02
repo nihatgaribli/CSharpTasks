@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\GitHub\C#\task-8\task-8.2\bin\Debug\net6.0\task-8.2.exe
+C:\Users\User\Desktop\GitHub\C#\task-8\task-8.2\bin\Debug\net6.0\task-8.2.deps.json
+C:\Users\User\Desktop\GitHub\C#\task-8\task-8.2\bin\Debug\net6.0\task-8.2.runtimeconfig.json
+C:\Users\User\Desktop\GitHub\C#\task-8\task-8.2\bin\Debug\net6.0\task-8.2.dll
+C:\Users\User\Desktop\GitHub\C#\task-8\task-8.2\bin\Debug\net6.0\task-8.2.pdb
+C:\Users\User\Desktop\GitHub\C#\task-8\task-8.2\obj\Debug\net6.0\task-8.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GitHub\C#\task-8\task-8.2\obj\Debug\net6.0\task-8.2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GitHub\C#\task-8\task-8.2\obj\Debug\net6.0\task-8.2.AssemblyInfo.cs
+C:\Users\User\Desktop\GitHub\C#\task-8\task-8.2\obj\Debug\net6.0\task-8.2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GitHub\C#\task-8\task-8.2\obj\Debug\net6.0\task-8.2.dll
+C:\Users\User\Desktop\GitHub\C#\task-8\task-8.2\obj\Debug\net6.0\refint\task-8.2.dll
+C:\Users\User\Desktop\GitHub\C#\task-8\task-8.2\obj\Debug\net6.0\task-8.2.pdb
+C:\Users\User\Desktop\GitHub\C#\task-8\task-8.2\obj\Debug\net6.0\task-8.2.genruntimeconfig.cache
+C:\Users\User\Desktop\GitHub\C#\task-8\task-8.2\obj\Debug\net6.0\ref\task-8.2.dll

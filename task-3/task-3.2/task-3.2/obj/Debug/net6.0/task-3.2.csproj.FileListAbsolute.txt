@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\GitHub\C#\task-3\task-3.2\task-3.2\bin\Debug\net6.0\task-3.2.exe
+C:\Users\User\Desktop\GitHub\C#\task-3\task-3.2\task-3.2\bin\Debug\net6.0\task-3.2.deps.json
+C:\Users\User\Desktop\GitHub\C#\task-3\task-3.2\task-3.2\bin\Debug\net6.0\task-3.2.runtimeconfig.json
+C:\Users\User\Desktop\GitHub\C#\task-3\task-3.2\task-3.2\bin\Debug\net6.0\task-3.2.dll
+C:\Users\User\Desktop\GitHub\C#\task-3\task-3.2\task-3.2\bin\Debug\net6.0\task-3.2.pdb
+C:\Users\User\Desktop\GitHub\C#\task-3\task-3.2\task-3.2\obj\Debug\net6.0\task-3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GitHub\C#\task-3\task-3.2\task-3.2\obj\Debug\net6.0\task-3.2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GitHub\C#\task-3\task-3.2\task-3.2\obj\Debug\net6.0\task-3.2.AssemblyInfo.cs
+C:\Users\User\Desktop\GitHub\C#\task-3\task-3.2\task-3.2\obj\Debug\net6.0\task-3.2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GitHub\C#\task-3\task-3.2\task-3.2\obj\Debug\net6.0\task-3.2.dll
+C:\Users\User\Desktop\GitHub\C#\task-3\task-3.2\task-3.2\obj\Debug\net6.0\refint\task-3.2.dll
+C:\Users\User\Desktop\GitHub\C#\task-3\task-3.2\task-3.2\obj\Debug\net6.0\task-3.2.pdb
+C:\Users\User\Desktop\GitHub\C#\task-3\task-3.2\task-3.2\obj\Debug\net6.0\task-3.2.genruntimeconfig.cache
+C:\Users\User\Desktop\GitHub\C#\task-3\task-3.2\task-3.2\obj\Debug\net6.0\ref\task-3.2.dll
