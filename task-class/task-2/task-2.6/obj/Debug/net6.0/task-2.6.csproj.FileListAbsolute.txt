@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GitHub\C#\task-class\task-2\task-2.6\bin\Debug\net6.0\task-2.6.exe
+C:\Users\User\Desktop\GitHub\C#\task-class\task-2\task-2.6\bin\Debug\net6.0\task-2.6.deps.json
+C:\Users\User\Desktop\GitHub\C#\task-class\task-2\task-2.6\bin\Debug\net6.0\task-2.6.runtimeconfig.json
+C:\Users\User\Desktop\GitHub\C#\task-class\task-2\task-2.6\bin\Debug\net6.0\task-2.6.dll
+C:\Users\User\Desktop\GitHub\C#\task-class\task-2\task-2.6\bin\Debug\net6.0\task-2.6.pdb
+C:\Users\User\Desktop\GitHub\C#\task-class\task-2\task-2.6\obj\Debug\net6.0\task-2.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GitHub\C#\task-class\task-2\task-2.6\obj\Debug\net6.0\task-2.6.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GitHub\C#\task-class\task-2\task-2.6\obj\Debug\net6.0\task-2.6.AssemblyInfo.cs
+C:\Users\User\Desktop\GitHub\C#\task-class\task-2\task-2.6\obj\Debug\net6.0\task-2.6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GitHub\C#\task-class\task-2\task-2.6\obj\Debug\net6.0\task-2.6.sourcelink.json
+C:\Users\User\Desktop\GitHub\C#\task-class\task-2\task-2.6\obj\Debug\net6.0\task-2.6.dll
+C:\Users\User\Desktop\GitHub\C#\task-class\task-2\task-2.6\obj\Debug\net6.0\refint\task-2.6.dll
+C:\Users\User\Desktop\GitHub\C#\task-class\task-2\task-2.6\obj\Debug\net6.0\task-2.6.pdb
+C:\Users\User\Desktop\GitHub\C#\task-class\task-2\task-2.6\obj\Debug\net6.0\task-2.6.genruntimeconfig.cache
+C:\Users\User\Desktop\GitHub\C#\task-class\task-2\task-2.6\obj\Debug\net6.0\ref\task-2.6.dll
